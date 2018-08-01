@@ -1,1 +1,1 @@
-# kaomoji
+# 「かおもじ」スキル for Alexa
