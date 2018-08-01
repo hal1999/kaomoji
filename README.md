@@ -6,10 +6,11 @@
 consts, resourcesあたりを変更することで別の言葉や画像に対応できる、はずです。
 （Alexaスキル開発の知識が必要です。）
 
-* Amazon Alexa 用のSkill (https://developer.amazon.com/ja/alexa-skills-kit) 。
-* AWS Lambda (https://aws.amazon.com/jp/lambda/) でホスト。
-* 仕様言語はNode.js 8.10 (https://nodejs.org/ja/)。
-* alexa-skills-kit-sdk-for-nodejs (https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) を使用。
+* Amazon Alexa 用のSkill ( https://developer.amazon.com/ja/alexa-skills-kit ) 。
+* AWS Lambda ( https://aws.amazon.com/jp/lambda/ ) でホスト。
+* Node.js 8.10 ( https://nodejs.org/ja/ ) を使用。
+* alexa-skills-kit-sdk-for-nodejs ( https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs ) を使用。
+* （「かおもじ」スキルに関しては、画像はAWS S3でホストしています。）
 
 ## ディレクトリ構成
 
