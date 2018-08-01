@@ -10,6 +10,6 @@ module.exports = {
         || handlerInput.requestEnvelope.request.intent.name === 'AMAZON.StopIntent');
   },
   handle(handlerInput) {
-    return RenderUtils.getRenderResponse(handlerInput, Messages.exitSpeech, null, null, null, null, null, true);
+    return RenderUtils.getRenderResponse(handlerInput, Messages.exitSpeech, null, null, null, true);
   },
 };

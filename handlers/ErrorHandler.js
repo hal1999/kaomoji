@@ -10,6 +10,6 @@ module.exports = {
   handle(handlerInput, error) {
     console.log(`Error handled: ${error.message}`);
 
-    return RenderUtils.getRenderResponse(handlerInput, Messages.errorSpeech, null, null, null, null, null, true);
+    return RenderUtils.getRenderResponse(handlerInput, Messages.errorSpeech, null, null, null, true);
   },
 };
