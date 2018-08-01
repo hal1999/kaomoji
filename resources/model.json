@@ -1,0 +1,185 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "Ç©Ç®Ç‡Ç∂",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "WordIntent",
+                    "slots": [
+                        {
+                            "name": "word",
+                            "type": "Words"
+                        }
+                    ],
+                    "samples": [
+                        "{word} Ç≈",
+                        "{word} ÇÕ",
+                        "{word} ÇøÇÂÇ§ÇæÇ¢",
+                        "{word} ÇÀ",
+                        "{word} Ç≠ÇæÇ≥Ç¢",
+                        "{word} ÇÊ",
+                        "{word}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                }
+            ],
+            "types": [
+                {
+                    "name": "Words",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "Ç≥ÇÊÇ§Ç»ÇÁ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç†ÇËÇ™Ç∆Ç§"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ÉâÉìÉ_ÉÄ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ìKìñ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "åôÇ¢"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "çDÇ´"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç»ÇÒÇ≈Ç‡Ç»Ç¢"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç®Ç‚Ç∑Ç›Ç»Ç≥Ç¢"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç®Ç‚Ç∑Ç›"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç±ÇÒÇŒÇÒÇÌ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç±ÇÒÇ…ÇøÇÌ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç®ÇÕÇÊÇ§Ç≤Ç¥Ç¢Ç‹Ç∑"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç®ÇÕÇÊÇ§"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ïÅí "
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ÇæÇﬂ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ãÉÇ¢Çƒ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ç—Ç¡Ç≠ÇË"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "èŒÇ¡Çƒ"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ì{Ç¡Çƒ"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
